@@ -1,0 +1,263 @@
+<resources>
+    <string name="app_name">Guess the Capital</string>
+    <!--Europa-->
+    <string-array name="questionsEurope">
+        <item>Capitale della Germania</item>
+        <item>Capitale della Spagna</item>
+        <item>Capitale dell\'Italia</item>
+        <item>Capitale della Francia</item>
+        <item>Capitale dell\'Austria</item>
+        <item>Capitale della Svezia</item>
+        <item>Capitale del Regno Unito</item>
+        <item>Capitale del Portogallo</item>
+        <item>Capitale della Danimarca</item>
+        <item>Capitale del Montenegro</item>
+        <item>Capitale della Svizzera</item>
+        <item>Capitale dell\'Irlanda</item>
+        <item>Capitale della Lettonia</item>
+        <item>Capitale della Finlandia</item>
+        <item>Capitale del Belgio</item>
+        <item>Capitale dell\'Ucraina</item>
+        <item>Capitale del Lussemburgo</item>
+        <item>Capitale dell\'Olanda</item>
+        <item>Capitale dell\'Albania</item>
+        <item>Capitale della Grecia</item>
+        <item>Capitale dell\'Estonia</item>
+        <item>Capitale di Andorra</item>
+        <item>Capitale della Norvegia</item>
+        <item>Capitale della Polonia</item>
+        <item>Capitale della Russia</item>
+        <item>Capitale di San Marino</item>
+        <item>Capitale della Croazia</item>
+        <item>Capitale dell\'Islanda</item>
+        <item>Capitale del Liechtenstein</item>
+        <item>Capitale della Lituania</item>
+        <item>Capitale della Serbia</item>
+        <item>Capitale del Principato di Monaco</item>
+        <item>Capitale della Bulgaria</item>
+        <item>Capitale della Romania</item>
+        <item>Capitale di Malta</item>
+        <item>Capitale della Bielorussia</item>
+        <item>Capitale della Repubblica Ceca</item>
+        <item>Capitale della Bosnia Erzegovina</item>
+        <item>Capitale della Macedonia</item>
+        <item>Capitale di Cipro</item>
+        <item>Capitale della Slovacchia</item>
+        <item>Capitale della Moldavia</item>
+        <item>Capitale della Città del Vaticano</item>
+        <item>Capitale dell\'Ungheria</item>
+        <item>Capitale della Slovenia</item>
+    </string-array>
+
+    <string-array name="answersEurope">
+        <item>Berlino</item>
+        <item>Madrid</item>
+        <item>Roma</item>
+        <item>Parigi</item>
+        <item>Vienna</item>
+        <item>Stoccolma</item>
+        <item>Londra</item>
+        <item>Lisbona</item>
+        <item>Copenaghen</item>
+        <item>Podgorica</item>
+        <item>Berna</item>
+        <item>Dublino</item>
+        <item>Riga</item>
+        <item>Helsinki</item>
+        <item>Bruxelles</item>
+        <item>Kiev</item>
+        <item>Lussemburgo</item>
+        <item>Amsterdam</item>
+        <item>Tirana</item>
+        <item>Atene</item>
+        <item>Tallinn</item>
+        <item>Andorra La Vella</item>
+        <item>Oslo</item>
+        <item>Varsavia</item>
+        <item>Mosca</item>
+        <item>Città di San Marino</item>
+        <item>Zagabria</item>
+        <item>Reykjavik</item>
+        <item>Vaduz</item>
+        <item>Vilnius</item>
+        <item>Belgrado</item>
+        <item>Monaco</item>
+        <item>Sofia</item>
+        <item>Bucarest</item>
+        <item>La Valletta</item>
+        <item>Minsk</item>
+        <item>Praga</item>
+        <item>Sarajevo</item>
+        <item>Skopje</item>
+        <item>Nicosia</item>
+        <item>Bratislava</item>
+        <item>Chisinau</item>
+        <item>Città del Vaticano</item>
+        <item>Budapest</item>
+        <item>Lubiana</item>
+    </string-array>
+
+    <string-array name="hintsEurope">
+        <item>Inizia con la B</item>
+        <item>Inizia con la M</item>
+        <item>Inizia con la R</item>
+        <item>Inizia con la P</item>
+        <item>Inizia con la V</item>
+        <item>Inizia con la S</item>
+        <item>Inizia con la L</item>
+        <item>Inizia con la L</item>
+        <item>Inizia con la C</item>
+        <item>Inizia con la P</item>
+        <item>Inizia con la B</item>
+        <item>Inizia con la D</item>
+        <item>Inizia con la R</item>
+        <item>Inizia con la H</item>
+        <item>Inizia con la B</item>
+        <item>Inizia con la K</item>
+        <item>Inizia con la L</item>
+        <item>Inizia con la A</item>
+        <item>Inizia con la T</item>
+        <item>Inizia con la A</item>
+        <item>Inizia con la T</item>
+        <item>Inizia con la A</item>
+        <item>Inizia con la O</item>
+        <item>Inizia con la V</item>
+        <item>Inizia con la M</item>
+        <item>Inizia con la C</item>
+        <item>Inizia con la Z</item>
+        <item>Inizia con la R</item>
+        <item>Inizia con la V</item>
+        <item>Inizia con la V</item>
+        <item>Inizia con la B</item>
+        <item>Inizia con la M</item>
+        <item>Inizia con la S</item>
+        <item>Inizia con la B</item>
+        <item>Inizia con la L</item>
+        <item>Inizia con la M</item>
+        <item>Inizia con la P</item>
+        <item>Inizia con la S</item>
+        <item>Inizia con la S</item>
+        <item>Inizia con la N</item>
+        <item>Inizia con la B</item>
+        <item>Inizia con la C</item>
+        <item>Inizia con la C</item>
+        <item>Inizia con la B</item>
+        <item>Inizia con la L</item>
+    </string-array>
+
+    <!--America-->
+    <string-array name="questionsAmerica">
+        <item>Canada</item>
+        <item>Stati Uniti</item>
+        <item>Messico</item>
+        <item>Nicaragua</item>
+        <item>Honduras</item>
+        <item>Cuba</item>
+        <item>Guatemala</item>
+        <item>panama</item>
+        <item>costa rica</item>
+        <item>repubblica dominicana</item>
+        <item>haiti</item>
+        <item>belize</item>
+        <item>el salvador</item>
+        <item>bahama</item>
+        <item>giamaica</item>
+        <item>dominica</item>
+        <item>saint lucia</item>
+        <item>antigua e barbuda</item>
+        <item>barbados</item>
+        <item>saint vincent e grenadine</item>
+        <item>grenada</item>
+        <item>saint kitts e nevis</item>
+        <item>brasile</item>
+        <item>argentina</item>
+        <item>perù</item>
+        <item>colombia</item>
+        <item>bolivia</item>
+        <item>venezuela</item>
+        <item>cile</item>
+        <item>paraguay</item>
+        <item>ecuador</item>
+        <item>guyana</item>
+        <item>uruguay</item>
+        <item>suriname</item>
+        <item>trinidad e tobago</item>
+    </string-array>
+
+    <string-array name="answersAmerica">
+        <item>ottawa</item>
+        <item>washington</item>
+        <item>città del messico</item>
+        <item>managua</item>
+        <item>tegucigalpa</item>
+        <item>l\'avana</item>
+        <item>guatemala</item>
+        <item>panama</item>
+        <item>san josè</item>
+        <item>santo domingo</item>
+        <item>port-au-prince</item>
+        <item>belmopan</item>
+        <item>san salvador</item>
+        <item>nassau</item>
+        <item>kingston</item>
+        <item>roseau</item>
+        <item>castries</item>
+        <item>saint john\'s</item>
+        <item>bridgetown</item>
+        <item>kingstown</item>
+        <item>saint george\'s</item>
+        <item>basseterre</item>
+        <item>brasilia</item>
+        <item>buenos aires</item>
+        <item>lima</item>
+        <item>santa fe de bogotà</item>
+        <item>sucre</item>
+        <item>caracas</item>
+        <item>santiago</item>
+        <item>asuncion</item>
+        <item>quito</item>
+        <item>georgetown</item>
+        <item>montevideo</item>
+        <item>paramaribo</item>
+        <item>port of spain</item>
+    </string-array>
+
+    <string-array name="hintsAmerica">
+        <item>Inizia con la O</item>
+        <item>Inizia con la W</item>
+        <item>Inizia con la C</item>
+        <item>Inizia con la M</item>
+        <item>Inizia con la T</item>
+        <item>Inizia con la L</item>
+        <item>Inizia con la G</item>
+        <item>Inizia con la P</item>
+        <item>Inizia con la S</item>
+        <item>Inizia con la S</item>
+        <item>Inizia con la P</item>
+        <item>Inizia con la B</item>
+        <item>Inizia con la S</item>
+        <item>Inizia con la N</item>
+        <item>Inizia con la K</item>
+        <item>Inizia con la R</item>
+        <item>Inizia con la C</item>
+        <item>Inizia con la S</item>
+        <item>Inizia con la B</item>
+        <item>Inizia con la K</item>
+        <item>Inizia con la S</item>
+        <item>Inizia con la B</item>
+        <item>Inizia con la B</item>
+        <item>Inizia con la B</item>
+        <item>Inizia con la L</item>
+        <item>Inizia con la S</item>
+        <item>Inizia con la S</item>
+        <item>Inizia con la C</item>
+        <item>Inizia con la S</item>
+        <item>Inizia con la A</item>
+        <item>Inizia con la Q</item>
+        <item>Inizia con la G</item>
+        <item>Inizia con la M</item>
+        <item>Inizia con la P</item>
+        <item>Inizia con la P</item>
+    </string-array>
+
+</resources>
